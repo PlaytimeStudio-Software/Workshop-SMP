@@ -1,2 +1,3 @@
-# CreateCraft-Aero-SMP
-Modpack releases for the CreateCraft Aero SMP server, installed through Aero Launcher.
+# Workshop SMP
+
+Modpack releases for the Workshop SMP server (formerly CreateCraft Aero SMP), installed through Crafton Launcher.
